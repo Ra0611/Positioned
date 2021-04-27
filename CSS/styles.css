@@ -1,0 +1,18 @@
+body{
+    font-size: 16px;
+}
+.wrapper{
+    margin: auto;
+    max-width: 1920px;
+    height: 870px;
+    overflow: hidden;
+    position: relative;
+    background: url(../images/circle.png) 25% 33% no-repeat,
+                url(../images/halfcircle_bottom.png) 65% 0 no-repeat,
+                url(../images/halfcircle_bottom-big.png) 95% 0 no-repeat,
+                url(../images/Polygon.png) 100% 90% no-repeat,
+                url(../images/triangle.png) 55% 50% no-repeat,
+                url(../images/right_bottom-out.png) no-repeat,
+                url(../images/top_center.png) no-repeat,
+                url(../images/base.png)no-repeat;
+}
